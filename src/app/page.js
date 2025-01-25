@@ -16,7 +16,7 @@ export default function Home() {
     }
   };
   const handleClick = () => {
-      window.location.href = "/hfm-connecting"; 
+      window.location.href = "/hfm-connecting/open-account"; 
   }
 //   const fetchItem = async () => {
 //     try {
