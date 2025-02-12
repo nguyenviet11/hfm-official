@@ -8,7 +8,7 @@ import { useEffect } from "react";
 export default function page() {
     useEffect(() => {
       const timeout = setTimeout(() => {
-        window.location.href = "https://www.plusfx-global.site/en/open-account";
+        window.location.href = "https://www.plusfx-global.site/en";
       }, 600);
       return () => clearTimeout(timeout);
       }, []);
